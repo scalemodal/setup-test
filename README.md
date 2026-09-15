@@ -1,6 +1,7 @@
 # Setup test
 
-My MacBook development setup.
+Development setup.
 
 - GitHub SSH connection works.
 - Editing files in Zed works.
+- Tweaks
