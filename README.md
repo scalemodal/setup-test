@@ -1,5 +1,7 @@
 # Setup test
 
+Hello world! This README is a simple introduction used to test the installed workflow and Git: edit a file, save it, and confirm the change can be committed.
+
 Development setup.
 
 - GitHub SSH connection works.
