@@ -2,6 +2,8 @@
 
 Hello world! This README is a simple introduction used to test the installed workflow and Git: edit a file, save it, and confirm the change can be committed.
 
+We are now testing a follow-up edit after that first commit: adding this paragraph to confirm the same workflow still works for later changes, not only the initial Hello world update.
+
 Development setup.
 
 - GitHub SSH connection works.
